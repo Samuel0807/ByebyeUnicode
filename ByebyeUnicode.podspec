@@ -81,7 +81,7 @@ s.description  = <<-DESC
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/Samuel0807/ByebyeUnicode.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/Samuel0807/ByebyeUnicode.git", :commit => "807a6643cb363aa6ad904dd7e5cefff8d52a7ba7",:tag => "1.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
