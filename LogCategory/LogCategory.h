@@ -1,9 +1,9 @@
 //
 //  NSDictionary+LogCategory.h
-//  TestMac
+//  
 //
-//  Created by yuelixing on 16/9/5.
-//  Copyright © 2016年 Tutu. All rights reserved.
+//  Created by Samuel on 18/1/10.
+//  Copyright © 2018年 RedSoft. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

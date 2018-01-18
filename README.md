@@ -1,5 +1,6 @@
 # ByebyeUnicode
-把Xcode控制台输出的Unicode码转化成中文字符，方便调试
+把Xcode控制台输出的Unicode码转化成中文字符，方便调试。
+OC和Swift项目均支持
 
 ## Installation
 
